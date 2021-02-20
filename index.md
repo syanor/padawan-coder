@@ -35,3 +35,17 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+## Welcome to my website 
+###### Welcome to my website
+
+1. My projects
+2. Contact Me
+
+- My projects
+- Contact Me
+
+[Link to my Facebook](https://www.facebook.com/syafiq.nori/) 
+
+![Tanjiro](https://www.epicdope.com/wp-content/uploads/2019/10/Tanjiro-Kamado.jpg)
